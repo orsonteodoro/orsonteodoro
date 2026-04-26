@@ -130,3 +130,12 @@
     
   </a>
 </p>
+
+## Influential quotes
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Adam+Smith&quote=It+is+the+maxim+of+every+prudent+master+of+a+family,+never+to+make+at+home+what+it+will+cost+him+more+to+make+than+to+buy)
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Donald+Knuth&quote=Premature+optimization+is+the+root+of+all+evil)
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Edward+A.+Murphy+Jr.&quote=Anything+that+can+go+wrong+will+go+wrong.)
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Kelly+Johnson&quote=Keep+it+simple,+stupid)
