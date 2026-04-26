@@ -66,7 +66,7 @@
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=grok,gemini" />
-  </a>  + Llama
+  </a> + Meta AI
 </p>
 
 ## AI testing
