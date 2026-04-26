@@ -66,13 +66,45 @@
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=grok,gemini" />
-  </a> + Meta AI
+    
+  </a>
+  <a href="https://github.com/lobehub/lobe-icons">
+  <img
+    height="48"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/MetaAI-color.png"
+  />
+  </a>
 </p>
 
-## AI testing
+## Local LLM testing
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,deepseek" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,pytorch" />
+  </a>
+  <a href="https://github.com/lobehub/lobe-icons">
+  <img
+    height="48"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/LobeHub-color.png"
+  />
+  <img
+    height="48"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/coqui-color.png"
+  />
+  <img
+    height="48"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/qwen-color.png"
+  />
+  <img
+    height="48"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/DeepSeek-color.png"
+  />
+  <img
+    height="48"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ibm.png"
+  />
+
+  
+    
   </a>
 </p>
