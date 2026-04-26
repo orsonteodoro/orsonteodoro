@@ -133,7 +133,9 @@
 
 ## Personality
 
-[![Static Badge](https://img.shields.io/badge/MBTI-ISTP-yellow?style=for-the-badge&label=MBTI)]([https://your-url-here.com](https://www.16personalities.com/istp-personality))
+<a href="https://www.16personalities.com/istp-personality">
+<img alt="Static Badge" src="https://img.shields.io/badge/MBTI-ISTP-yellow?style=for-the-badge&label=MBTI">
+</a>
 
 ## Influential quotes
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Adam+Smith&quote=It+is+the+maxim+of+every+prudent+master+of+a+family,+never+to+make+at+home+what+it+will+cost+him+more+to+make+than+to+buy)
