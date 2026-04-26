@@ -48,7 +48,7 @@
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=libreoffice,excel" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=libreoffice" />
   </a>
   <a href="https://github.com/syvixor/skills-icons">
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=googlesheets,googledocs" />
