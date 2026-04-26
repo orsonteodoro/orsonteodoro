@@ -73,6 +73,10 @@
     height="48"
     src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/MetaAI-color.png"
   />
+  <img
+    height="48"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/GithubCopilot.png"
+  />
   </a>
 </p>
 
