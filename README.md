@@ -5,7 +5,7 @@
 ### Game dev
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gamemakerstudio,unity,blender,cs,c,cpp,dotnet,pygame,python,visualstudio,git,audacity,blender,gimp" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gamemakerstudio,unity,blender,cs,c,cpp,dotnet,pygame,python,visualstudio,git,svn,audacity,blender,gimp" />
   </a>
 </p>
 
