@@ -17,14 +17,14 @@
 ### Desktop OS dev
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,git,go,qt,cs,visualbasic,visualstudio,java,selenium,emacs,qemu" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,git,go,qt,cs,visualbasic,visualstudio,java,selenium,emacs,qemu,cmake" />
   </a>
 </p>
 
 ### Package management dev
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,cmake,docker,bash,npm,pnpm,yarn,regex,git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,bash,npm,pnpm,yarn,regex,git" />
   </a>
 </p>
 
