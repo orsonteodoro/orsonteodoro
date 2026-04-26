@@ -4,8 +4,11 @@
 
 ### Game dev
 <p align="left">
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pygame" />
+  </a>
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gamemakerstudio,unity,blender,cs,c,cpp,dotnet,pygame,python,visualstudio,git,svn,audacity,blender,gimp" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gamemakerstudio,unity,blender,cs,c,cpp,dotnet,python,visualstudio,git,svn,audacity,blender,gimp" />
   </a>
 </p>
 
