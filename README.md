@@ -16,7 +16,7 @@
   </a>
 </p>
 
-### Desktop OS dev
+### Desktop App / OS dev
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,git,go,qt,cs,visualbasic,visualstudio,java,selenium,emacs,qemu,cmake" />
