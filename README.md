@@ -21,12 +21,20 @@
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=oauth" />
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=rest" />
   </a>
+  <a href="https://github.com/thuongtruong109/icoziv">
+    <img
+      src="https://i.icoziv.workers.dev/icons?i=geany"
+    />
+  </a>
 </p>
 
-### Desktop app dev
+### Desktop app dev, OS dev
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,git,go,qt,cs,visualbasic,visualstudio,java,selenium,emacs,qemu,cmake" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,assembly,git,go,qt,cs,visualbasic,visualstudio,java,selenium,emacs,qemu,cmake" />
+  </a>
+  <a href="https://github.com/syvixor/skills-icons">
+     <img src="https://skills.syvixor.com/api/icons?perline=15&i=curl" />
   </a>
 </p>
 
