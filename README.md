@@ -17,6 +17,10 @@
   <a href="https://github.com/LelouchFR/skill-icons">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=apache,php,mysql,wordpress,joomla,javascript,jquery,css,bootstrap,cloudflare,ffmpeg,facebook" />
   </a>
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=oauth" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=rest" />
+  </a>
 </p>
 
 ### Desktop App / OS dev
