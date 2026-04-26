@@ -101,7 +101,7 @@
   />
   <img
     height="48"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/ibm.png"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ibm.png"
   />
 
   
