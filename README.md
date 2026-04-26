@@ -55,11 +55,11 @@
   </a>
 </p>
 
-## Sysadmin
+## IT support
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,gentoo,debian,ubuntu" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,gentoo,debian,ubuntu,macos,windows" />
   </a>
 </p>
 
