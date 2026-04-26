@@ -1,6 +1,4 @@
-## Stats
-
-[![orsonteodoro's GitHub stats](https://github-readme-stats.vercel.app/api?username=orsonteodoro)](https://github.com/anuraghazra/github-readme-stats)
+![Trophies](https://icon.mzrdev.com/trophy?username=orsonteodoro&theme=dark)
 
 ## Experience / skills
 
