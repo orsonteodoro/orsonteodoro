@@ -133,7 +133,7 @@
 
 ## Personality
 
-<a href="https://www.16personalities.com/istp-personality">
+<a href="https://www.mbtionline.com/mbti-types/istp">
 <img alt="Static Badge" src="https://img.shields.io/badge/MBTI-ISTP-yellow?style=for-the-badge&label=MBTI">
 </a>
 
