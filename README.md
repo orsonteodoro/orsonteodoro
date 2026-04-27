@@ -145,3 +145,15 @@
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Edward+A.+Murphy+Jr.&quote=Anything+that+can+go+wrong+will+go+wrong.)
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Kelly+Johnson&quote=Keep+it+simple,+stupid)
+
+## Ethical and moral quotes
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Edward+Tufte&quote=There+are+only+two+industries+that+call+their+customers+'users':+illegal+drugs+and+software.)
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Scarface&quote=Don't+get+high+on+your+own+supply.)
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=John+Stuart+Mill&quote=It+is+better+to+be+a+human+being+dissatisfied+than+a+pig+satisfied;+better+to+be+Socrates+dissatisfied+than+a+fool+satisfied.)
+
+## Winning quotes
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Napoleon+Bonaparte&quote=Never+interrupt+your+enemy+when+he+is+making+a+mistake.)
