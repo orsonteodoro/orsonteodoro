@@ -146,6 +146,9 @@
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Kelly+Johnson&quote=Keep+it+simple,+stupid)
 
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Gene+Spafford&quote=The+only+truly+secure+system+is+one+that+is+powered+off,+cast+in+a+block+of+concrete+and+sealed+in+a+lead-lined+room+with+armed+guards+-+and+even+then+I+have+my+doubts/)
+
+
 ## Ethical and moral quotes
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Edward+Tufte&quote=There+are+only+two+industries+that+call+their+customers+'users':+illegal+drugs+and+software.)
