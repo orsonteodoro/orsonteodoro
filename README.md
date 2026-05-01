@@ -160,3 +160,7 @@
 ## Winning quotes
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Napoleon+Bonaparte&quote=Never+interrupt+your+enemy+when+he+is+making+a+mistake.)
+
+## Funny quotes
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Michael+Sinz&quote=Programming+is+like+sex:+one+mistake+and+you're+providing+support+for+a+lifetime.)
