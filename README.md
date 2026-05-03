@@ -139,7 +139,8 @@
 
 ## Disclaimer
 
-I am not obligated to update your favorite app/lib/package or pour all my free time into a project for free.
+I am not obligated to update, fix, or secure your favorite application, library, or package.
+I am not obligated to pour all my free time into a single project or organization for free.
 
 ## Influential quotes
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Adam+Smith&quote=It+is+the+maxim+of+every+prudent+master+of+a+family,+never+to+make+at+home+what+it+will+cost+him+more+to+make+than+to+buy)
