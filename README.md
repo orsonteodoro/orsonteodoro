@@ -137,6 +137,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/MBTI-ISTP-yellow?style=for-the-badge&label=MBTI">
 </a>
 
+## Disclaimer
+
+I am not obligated to update your favorite app or pour all my free time into a project for free.
+
 ## Influential quotes
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Adam+Smith&quote=It+is+the+maxim+of+every+prudent+master+of+a+family,+never+to+make+at+home+what+it+will+cost+him+more+to+make+than+to+buy)
 
