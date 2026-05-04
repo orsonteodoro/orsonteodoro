@@ -75,7 +75,7 @@
 8. Gentoo (current)
 9. An immutable operating system (future)
 
-## IT support
+### IT support
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
@@ -83,7 +83,7 @@
   </a>
 </p>
 
-## AI code assistants
+### AI code assistants
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
@@ -102,7 +102,7 @@
   </a>
 </p>
 
-## Local LLM testing
+### Local LLM testing
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
