@@ -63,13 +63,17 @@
   </a>
 </p>
 
-## My OS
+### Distro hopper
 
-<p align="left">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gentoo,linux" />
-  </a>
-</p>
+1. Mandrake
+2. Stampede
+3. Enoch
+4. Gentoo
+5. Tiny Core
+6. Alpine
+7. Arch
+8. Gentoo (current)
+9. An immutable operating system (future)
 
 ## IT support
 
