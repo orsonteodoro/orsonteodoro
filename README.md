@@ -73,7 +73,7 @@
 6. Alpine
 7. Arch
 8. Gentoo (current)
-9. An immutable operating system (future)
+9. An immutable operating system or a Fil-C based distro (future)
 
 ### IT support
 
