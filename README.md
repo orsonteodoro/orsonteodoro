@@ -137,7 +137,7 @@
 
 ## Personality
 
-<a href="https://www.mbtionline.com/mbti-types/istp">
+<a href="https://www.bing.com/search?q=famous%20programmer%20istps">
 <img alt="Static Badge" src="https://img.shields.io/badge/MBTI-ISTP-yellow?style=for-the-badge&label=MBTI">
 </a>
 
