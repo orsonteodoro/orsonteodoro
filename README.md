@@ -63,26 +63,6 @@
   </a>
 </p>
 
-### Distro hopper
-
-1. Mandrake
-2. Stampede
-3. Enoch
-4. Gentoo
-5. Tiny Core
-6. Alpine
-7. Arch
-8. Gentoo (current)
-9. An immutable operating system or a Fil-C based distro (future)
-
-### IT support
-
-<p align="left">
-  <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,gentoo,debian,ubuntu,macos,windows" />
-  </a>
-</p>
-
 ### AI code assistants
 
 <p align="left">
@@ -129,11 +109,28 @@
     height="48"
     src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/ibm.png"
   />
-
-  
-    
   </a>
 </p>
+
+### IT support
+
+<p align="left">
+  <a href="https://github.com/LelouchFR/skill-icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,gentoo,debian,ubuntu,macos,windows" />
+  </a>
+</p>
+
+### Distro hopper
+
+1. Mandrake
+2. Stampede
+3. Enoch
+4. Gentoo
+5. Tiny Core
+6. Alpine
+7. Arch
+8. Gentoo (current)
+9. An immutable operating system or a Fil-C based distro (future)
 
 ## Personality
 
