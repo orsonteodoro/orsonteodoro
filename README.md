@@ -154,7 +154,9 @@ I am not obligated to pour all my free time into a single project or into your o
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Gene+Spafford&quote=The+only+truly+secure+system+is+one+that+is+powered+off,+cast+in+a+block+of+concrete+and+sealed+in+a+lead-lined+room+with+armed+guards+-+and+even+then+I+have+my+doubts/)
 
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=John+Kindervag&quote=Never+trust,+always+verify)
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?quote=Those+that+use+*always*+or+*never*+are+liars.)
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?quote=Never+trust,+always+verify+[from+the+Zero+Trust+cybersecurity+model])
 
 ## Ethical and moral quotes
 
