@@ -15,7 +15,7 @@ I am not obligated to pour all my free time into a single project or into your o
 <img src="https://img.shields.io/badge/Web%20developer-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/Package--maintainer-grey?style=for-the-badge">
 
-## OS
+## Development environment
 
 <img src="https://img.shields.io/badge/Gentoo%20Linux-54487A?style=for-the-badge&logo=gentoo">
 <img src="https://img.shields.io/badge/dwm-blue?style=for-the-badge&logo=dwm">
