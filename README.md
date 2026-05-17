@@ -28,6 +28,8 @@ I am not obligated to pour all my free time into a single project or into your o
 <img src="https://img.shields.io/badge/Lead%20programmer-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/3D%20animation-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/2D%20vector%20animation-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Game%20AI%20programming-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Game%20mechanics%20programming-grey?style=for-the-badge">
 
 ### OS
 
