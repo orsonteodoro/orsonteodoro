@@ -12,6 +12,10 @@ I am not obligated to pour all my free time into a single project or into your o
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/Listening%20to%20techno,%20trance,%20progressive%20house,%20melodic%20house%20sets-AEC6CF?style=for-the-badge">
 
+## Personality
+
+<img src="https://img.shields.io/badge/ISTP-yellow?style=for-the-badge">
+
 ## Experience / skills
 
 <img src="https://img.shields.io/badge/Web%20dev-grey?style=for-the-badge">
@@ -45,6 +49,3 @@ I am not obligated to pour all my free time into a single project or into your o
 <img src="https://img.shields.io/badge/1.%20Grok-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/2.%20Gemini-4285F4?style=for-the-badge">
 
-## Personality
-
-<img src="https://img.shields.io/badge/ISTP-yellow?style=for-the-badge">
