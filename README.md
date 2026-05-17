@@ -9,39 +9,13 @@ I am not obligated to pour all my free time into a single project or into your o
   <img src="https://img.shields.io/badge/ISTP-yellow?style=for-the-badge">
 </a>
 
-## Current pastimes
+## Roles
 
-<img src="https://img.shields.io/badge/Clash%20of%20Clans-DA8A67?style=for-the-badge">
-<img src="https://img.shields.io/badge/Petting%20cats-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/Playlist%20DJ-1ED760?style=for-the-badge">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Listening%20to%20solar%20weather%20reports,%20geopolitics,%20Linux,%20cybersecurity%20channels-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/Listening%20to%20hard%20techno,%20trance,%20progressive%20house,%20melodic%20house%20sets-AEC6CF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Game%20developer-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Web%20developer-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Package--maintainer-grey?style=for-the-badge">
 
-## Experience / skills
-
-<img src="https://img.shields.io/badge/Web%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/GUI%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/OS%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/PC%20Game%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/3D%20Game%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Embedded%20Game%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Android%20app/game%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Hackathon-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Game%20jams-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Project%20management-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Lead%20programmer-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/3D%20animation-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/2D%20vector%20animation-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Game%20AI%20programming-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Game%20mechanics%20programming-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Game%20design-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Game%20tools%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Social%20media%20web%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Augmented%20Reality%20(AR)%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/GPS%20App/Game%20dev-grey?style=for-the-badge">
-
-### OS
+## OS
 
 <img src="https://img.shields.io/badge/Gentoo%20Linux-54487A?style=for-the-badge">
 <img src="https://img.shields.io/badge/dwm-blue?style=for-the-badge">
@@ -49,7 +23,7 @@ I am not obligated to pour all my free time into a single project or into your o
 
 <img src="https://img.shields.io/badge/GNU%20nano-silver?style=for-the-badge">
 
-### Recent AI code assistants
+## Recent AI code assistants
 
 <img src="https://img.shields.io/badge/Grok-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge">
