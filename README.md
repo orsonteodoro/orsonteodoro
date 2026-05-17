@@ -16,7 +16,7 @@ I am not obligated to pour all my free time into a single project or into your o
 <img src="https://img.shields.io/badge/Playlist%20DJ-1ED760?style=for-the-badge">
 <img src="https://img.shields.io/badge/Geopolitics-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Listening%20to%20techno,%20trance,%20progressive%20house,%20melodic%20house%20sets-AEC6CF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Listening%20to%20hard%20techno,%20trance,%20progressive%20house,%20melodic%20house%20sets-AEC6CF?style=for-the-badge">
 
 ## Experience / skills
 
