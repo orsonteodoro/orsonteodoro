@@ -5,7 +5,9 @@ I am not obligated to pour all my free time into a single project or into your o
 
 ## Personality
 
-<img src="https://img.shields.io/badge/ISTP-yellow?style=for-the-badge">
+<a href="https://www.bing.com/search?q=istp">
+  <img src="https://img.shields.io/badge/ISTP-yellow?style=for-the-badge">
+</a>
 
 ## Current pastimes
 
