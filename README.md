@@ -26,8 +26,7 @@ I am not obligated to pour all my free time into a single project or into your o
 <img src="https://img.shields.io/badge/PC%20Game%20dev-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/3D%20Game%20dev-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/Embedded%20Game%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Android%20game%20dev-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Android%20app%20dev-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Android%20app/game%20dev-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/Hackathon-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/Game%20jams-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/Project%20management-grey?style=for-the-badge">
