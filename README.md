@@ -38,6 +38,9 @@ I am not obligated to pour all my free time into a single project or into your o
 <img src="https://img.shields.io/badge/Game%20mechanics%20programming-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/Game%20design-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/Game%20tools%20dev-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Social%20media%20web%20dev-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Augmented%20Reality%20(AR)%20dev-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/GPS%20App/Game%20dev-grey?style=for-the-badge">
 
 ### OS
 
