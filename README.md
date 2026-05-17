@@ -3,6 +3,10 @@
 I am not obligated to update, fix, or secure your favorite application, library, or package.
 I am not obligated to pour all my free time into a single project or into your organization for free.
 
+## Personality
+
+<img src="https://img.shields.io/badge/ISTP-yellow?style=for-the-badge">
+
 ## Current pastimes
 
 <img src="https://img.shields.io/badge/Clash%20of%20Clans-DA8A67?style=for-the-badge">
@@ -11,10 +15,6 @@ I am not obligated to pour all my free time into a single project or into your o
 <img src="https://img.shields.io/badge/Geopolitics-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/Listening%20to%20techno,%20trance,%20progressive%20house,%20melodic%20house%20sets-AEC6CF?style=for-the-badge">
-
-## Personality
-
-<img src="https://img.shields.io/badge/ISTP-yellow?style=for-the-badge">
 
 ## Experience / skills
 
