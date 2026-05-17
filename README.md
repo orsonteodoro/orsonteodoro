@@ -5,7 +5,7 @@ I am not obligated to pour all my free time into a single project or into your o
 
 ## Personality
 
-<a href="https://www.bing.com/search?q=istp">
+<a href="https://www.bing.com/search?q=istp+personalities+in+software+industry">
   <img src="https://img.shields.io/badge/ISTP-yellow?style=for-the-badge">
 </a>
 
