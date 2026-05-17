@@ -46,6 +46,6 @@ I am not obligated to pour all my free time into a single project or into your o
 
 ### Recent AI code assistants
 
-<img src="https://img.shields.io/badge/1.%20Grok-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/2.%20Gemini-4285F4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Grok-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge">
 
