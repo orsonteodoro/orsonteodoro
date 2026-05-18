@@ -13,7 +13,7 @@ I am not obligated to pour all my free time into a single project or into your o
 
 <img src="https://img.shields.io/badge/Game%20developer-grey?style=for-the-badge">
 <img src="https://img.shields.io/badge/Web%20developer-grey?style=for-the-badge">
-<img src="https://img.shields.io/badge/Package--maintainer-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Package%20maintainer-grey?style=for-the-badge">
 
 ## Development environment
 
