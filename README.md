@@ -43,13 +43,13 @@ I am not obligated to pour all my free time into a single project or into your o
   </a>
 </p>
 <p>
-  <a href="https://gitlab.xfce.org/apps/xfce4-terminal/-/blob/master/colorschemes/dark-pastels.desktop.in?ref_type=heads">
-    <img src="https://img.shields.io/badge/Color%20theme%20(xfce4--terminal):%20%20Dark%20Pastels-333333?style=for-the-badge" />
+  <a href="https://tinted-theming.github.io/tinted-gallery/#base16-moonlight">
+    <img src="https://img.shields.io/badge/Color%20theme%20(xfce4--terminal):%20%20base16--moonlight-c8d3f5?style=for-the-badge" />
   </a>
 </p>
 <p>
-  <a href="https://draculatheme.com/geany">
-    <img src="https://img.shields.io/badge/Color%20theme%20(Geany)%20:%20%20Dracula%20Theme-eggshell?style=for-the-badge" />
+  <a href="https://tinted-theming.github.io/tinted-gallery/#base16-moonlight">
+    <img src="https://img.shields.io/badge/Color%20theme%20(Geany)%20:%20%20base16--moonlight-c8d3f5?style=for-the-badge" />
   </a>
 </p>
 <p>
