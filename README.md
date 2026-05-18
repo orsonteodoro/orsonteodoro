@@ -18,7 +18,7 @@ I am not obligated to pour all my free time into a single project or into your o
 ## Current development vibe
 
 <p>
-  <a href="https://www.gentoo.org/">
+  <a href="https://www.gentoo.org/get-started/">
     <img src="https://img.shields.io/badge/Gentoo%20Linux-54487A?style=for-the-badge&logo=gentoo" />
   </a>
 </p>
