@@ -23,8 +23,8 @@ I am not obligated to pour all my free time into a single project or into your o
   </a>
 </p>
 <p>
-  <a href="https://dwm.suckless.org/">
-    <img src="https://img.shields.io/badge/dwm-blue?style=for-the-badge&logo=dwm" />
+  <a href="https://swaywm.org/">
+    <img src="https://img.shields.io/badge/sway-tan?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAGCAMAAADExV+OAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAC6UExURWd1G2h1HAAAAIeWXJCaWv88QGh1HGd0Gmh1HGh1HGh1HGh1HGFuEWJvE3eDM46YVmh1HGd0G93h0fDy7L/FoWh2H2VzGv///////////////////////93Yq9LPlL+0X7WoRqOcM5uZMP///////////////////////////+B7UsORQrGcNbyRONJ1O+xQOf////////////////////w9O+9SPdxqPNltO+tXPfxCP/84QLCeNv///6V5nHsAAAA8dFJOUwAAAAAAAA17v9edBQEveYzEYylnZYQ6EB0MCRIXL3ZpfnEsKlJTXllUVbj0/Pm5HyYiKyEYKHDQ3IMvBD0Ln9sAAAABYktHRBcL1piPAAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJTUUH6gUTBRIiWhgWmQAAAFVJREFUCNdjYGBj5+Dk4mZkAgMGHl4+fgFBBgYol1lIWERUjEVcQlJKWlqGQVZOXkFRiUlZRVVNXUOTQUtbx0ZXT1/cwNDI2NiEwdTM3MLSypoVohcA9ioHsDY6S2UAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjYtMDUtMTlUMDU6MTU6NTArMDA6MDBoUt2mAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA5LTEyVDE2OjE3OjM0KzAwOjAwm13nUQAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNi0wNS0xOVQwNToxODozNCswMDowMInE4uEAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwaAAAAAElFTkSuQmCC" />
   </a>
 </p>
 <p>
