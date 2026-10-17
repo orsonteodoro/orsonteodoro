@@ -23,7 +23,7 @@ I am not obligated to pour all my free time into a single project or into your o
   </a>
 </p>
 <p>
-  <a href="https://dwm.suckless.org/">
+  <a href="https://www.reddit.com/r/dwm/">
     <img src="https://img.shields.io/badge/dwm-blue?style=for-the-badge&logo=dwm" />
 </p>
 <p>
